@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Amelia 👋
 
 ![](https://komarev.com/ghpvc/?username=ameliah23&color=fb4362)
 
