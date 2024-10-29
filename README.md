@@ -5,7 +5,6 @@
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396?style=flat-square&logo=java" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter%23007396?style=flat-square&logo=flutter" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
